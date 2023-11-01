@@ -10,7 +10,7 @@ export const Bio = {
     "Je suis une personne motivée et polyvalente, toujours désireuse de relever de nouveaux défis. Avec une passion pour l'apprentissage, je suis déterminée à fournir des résultats de haute qualité. Dotée d'une attitude positive et d'un état d'esprit axé sur la croissance, je suis prête à apporter une contribution significative et à réaliser de grandes choses.",
   github: "https://github.com/SAMIHA88",
   resume:
-    "https://drive.google.com/file/d/11_315CZYN-VX2fa9Mg45jTQLPDtomhF4/view?usp=sharing",
+    "https://drive.google.com/file/d/13tJwsYdg0RB0taG48j53LFXOjAoqIGAz/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/samiha-elhajjam/",
   twitter: "https://twitter.com/Samiha2001El",
   insta: "https://www.instagram.com/samiha_elhajjam/",
